@@ -1,13 +1,12 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
+import streamlit as st
+import random
 from time import sleep
 import requests
-from PIL import Image
 from io import BytesIO
-import random
-import streamlit as st
-from selenium.webdriver.chrome.options import Options
 
+from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ECX
 

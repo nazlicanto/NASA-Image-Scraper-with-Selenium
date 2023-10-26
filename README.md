@@ -1,7 +1,7 @@
 # NASA-Image-Scraper
 ### `NASA-Image-Scraper` is a Streamlit web application that provides users with random images of celestial bodies sourced from NASA's official gallery. Employs the `Selenium` framework for web scraping and displays the fetched image using `Streamlit`. Deployed on AWS.
 
-![sample imaj](https://github.com/nazlicanto/NASA-Image-Scraper/tree/main/imaj)
+![sample imaj](https://github.com/nazlicanto/NASA-Image-Scraper/blob/main/imaj/merge3.jpg)
 
 
 ## Features
